@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @amulyabaral
-- 👀 I’m interested in biotechnology, working with genes and analysing them using computers!
-- 🌱 I’m currently learning metagenomics and programming
-- 📫 Send me an e-mail at amulyabaral2@gmail.com
-
-<!---
-amulyabaral/amulyabaral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m @amulyabaral! I in my 2nd year of MSc Biotechnology at INN, Norway. Although most things in the broader biotech field interest me, I do have to admit that I am particularly hooked to molecular biology, Antimicrobial Resistance and Omics. I’m currently learning metagenomics and programming in Python and R. 📫 Send me an e-mail at amulyabaral2@gmail.com !
